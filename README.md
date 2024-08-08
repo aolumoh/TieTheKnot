@@ -1,1 +1,1 @@
-This is my first project using React. You can view my page [here](https://aolumoh.github.io/components)
+This is my first project using React. It is the home page for a company that provides services for weddings. The website is not really interactive but I used it to practice the use of components. You can view my page [here](https://aolumoh.github.io/components)
